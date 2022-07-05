@@ -10,10 +10,9 @@
 ## 打包apk？
 请打包正式apk！不要debug！
 
-##在哪里运行apk？
+## 在哪里运行apk？
 https://github.com/mzdluo123/MiraiAndroid 请学习。
 
-#代码编写
 
 ## 更改Android应用信息
 
