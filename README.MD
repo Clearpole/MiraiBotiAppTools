@@ -2,7 +2,6 @@
 
 基于Mirai，由Kotlin编写的iApp机器人。
 
-# 使用
 
 ## 配置文件
 可前往 https://clearpole.lanzouv.com/ixsIf07e429c 下载zip，然后解压到`/storage/emulated/0/- AClear汤姆/`里，解压后的完整路径应该是`/storage/emulated/0/- AClear汤姆/iappcode/`。
@@ -44,7 +43,5 @@ https://github.com/mzdluo123/MiraiAndroid 请学习。
 
 请联系开发者`QQ 2949792646`，附带代码，截图，报错信息，态度诚恳地询问问题，收费or免费取决于态度和附带信息。
 
-
-# 最后
 
 欢迎您Star！不懂得问题可以联系开发者哦！`可付费定制属于自己的机器人`。
