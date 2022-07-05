@@ -4,6 +4,18 @@
 
 # 使用
 
+## 配置文件
+可前往 https://clearpole.lanzouv.com/ixsIf07e429c 下载zip，然后解压到`/storage/emulated/0/- AClear汤姆/`里，解压后的完整路径应该是`/storage/emulated/0/- AClear汤姆/iappcode/`。
+否则无法使用机器人。
+
+## 打包apk？
+请打包正式apk！不要debug！
+
+##在哪里运行apk？
+https://github.com/mzdluo123/MiraiAndroid 请学习。
+
+#代码编写
+
 ## 更改Android应用信息
 
 请到`app\src\main\AndroidManifest.xml`和`app/build.gradle`按照注释更改信息
@@ -28,17 +40,10 @@
 
 ## 无法使用？
 
-请检查本地是否有路径，且检查miraiandroid是否支持读取本地文件。
+请检查本地是否有路径，且检查miraiAndroid是否支持读取本地文件。
 
-## 本地路径配置
+请联系开发者`QQ 2949792646`，附带代码，截图，报错信息，态度诚恳地询问问题，收费or免费取决于态度和附带信息。
 
-### 1. 源码未更改
-
-请联系开发者`QQ 2949792646`免费获取配置zip，否则机器人无法运行。
-
-### 2. 源码已更改
-
-有本事更改源码，应该也能看得懂了，本地自己新建文件夹吧！
 
 # 最后
 
