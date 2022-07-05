@@ -12,7 +12,7 @@
 
 ## 编写代码
 
-请在`bot`模块下编写你的代码，例如`bot\src\main\java\com\example\maPluginTemplate\PluginMain.kt`
+请在`bot`模块下编写你的代码，例如`bot\src\main\java\com\example\bot\PluginMain.kt`
 
 如果你想要更改包名称，需要同时更改`bot\src\main\resources\META-INF\services\net.mamoe.mirai.console.plugin.jvm.JvmPlugin`中的信息
 
@@ -32,4 +32,14 @@
 
 ## 本地路径配置
 
-联系开发者QQ：2949792646 免费获取。
+### 1. 源码未更改
+
+请联系开发者`QQ 2949792646`免费获取配置zip，否则机器人无法运行。
+
+### 2. 源码已更改
+
+有本事更改源码，应该也能看得懂了，本地自己新建文件夹吧！
+
+# 最后
+
+欢迎您Star！不懂得问题可以联系开发者哦！`可付费定制属于自己的机器`人。
