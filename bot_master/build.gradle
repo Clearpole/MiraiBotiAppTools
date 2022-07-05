@@ -1,0 +1,15 @@
+plugins {
+    id("net.mamoe.mirai-console") version "2.9.0-RC" // mirai-console version
+    id 'kotlin'
+}
+
+mirai {
+    coreVersion = "2.11.0-RC" // mirai-core version
+}
+
+
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_1_7
+    targetCompatibility = JavaVersion.VERSION_1_7
+}

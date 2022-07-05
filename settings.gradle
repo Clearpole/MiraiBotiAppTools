@@ -1,0 +1,5 @@
+include ':bot'
+include ':app'
+rootProject.name = "MAPluginTemplate"
+include ':bot_master'
+include ':bot_master'
